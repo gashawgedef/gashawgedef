@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,
 My Name is Gashaw Gedef. I am curently working as software engineer.
 
 <!--

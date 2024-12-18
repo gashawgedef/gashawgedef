@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Node Js, Ruby on rails**
 
-- 💬 Ask me about **Web. Full Stack**
+- 💬 Ask me about **Web. Full Stack Development, Ai Engineer, DevOps**
 
 - 📫 How to reach me **gashawgedef@gmail.com**
 
